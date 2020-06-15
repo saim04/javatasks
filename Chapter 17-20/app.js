@@ -74,14 +74,25 @@
 // var a = prompt("Welcome to our bakery,What do you want to order sir/mam?")
 // var A = ["cake", "apple pie", "cookie", "chips", "patties"]
 
-// for (let i = 0; i < A.length; i++) {
-//     if (a == A[i]) {
-//         document.write(a + " is <b>available</b> at index " + i + " in our bakery")
-//     } else if (a !== A[i]) {
+// if(a==A[0]) {
+//         document.write(a+ " is <b>available</b> at index " +0 +" in our bakery")
+//     }
+//     else if(a==A[1]) {
+//         document.write(a+ " is <b>available</b> at index " +1 +" in our bakery")
+//     }
+//     else if(a==A[2]) {
+//         document.write(a+ " is <b>available</b> at index " +2 +" in our bakery")
+//     }
+//     else if(a==A[3]) {
+//         document.write(a+ " is <b>available</b> at index " +3 +" in our bakery")
+//     }
+//     else if(a==A[4]) {
+//         document.write(a+ " is <b>available</b> at index " +4+" in our bakery")
+//     }
+//  else{
 //         document.write("We are sorry." + a + " is <b>not available</b> in our bakery")
 //     }
-//     break
-// }
+
 
 // Task 8
 // var A = [24, 53, 78, 91, 12]
